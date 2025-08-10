@@ -1,6 +1,6 @@
 * ## 반달곰 커피 홈페이지
 
-* [참조링크](https://반달곰커피)
+* [참조링크](https://bandalgomcoffee.com)
   
 * 문구: 오디오 출력 소스코드
   
@@ -12,4 +12,4 @@
   encoded_audio_data = base64.b64encode(fp.getvalue())
   ```
 
-* [이미지](templates/static/david.jpg)
+* [이미지](./static/david.jpg)
